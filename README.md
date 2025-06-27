@@ -113,3 +113,15 @@ Loss : `CrosssEntropyLoss`
 Optimizer : `Adam`, learining_Rate = 0.001 (keep it small)
 
 Run for 20 epochs and the average loss per batch was 0.66 which is quite good.
+```bash
+Epoch : 2 | train_loss : 3.0516974925994873
+Epoch : 4 | train_loss : 1.9016647338867188
+Epoch : 6 | train_loss : 1.2000373601913452
+Epoch : 8 | train_loss : 0.871799647808075
+Epoch : 10 | train_loss : 0.7572396397590637
+Epoch : 12 | train_loss : 0.7110127806663513
+Epoch : 14 | train_loss : 0.6853783130645752
+Epoch : 16 | train_loss : 0.67520672082901
+Epoch : 18 | train_loss : 0.6670853495597839
+Epoch : 20 | train_loss : 0.6646623015403748
+```
